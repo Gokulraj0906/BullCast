@@ -1,6 +1,8 @@
-streamlit 
-yfinance 
-scikit-learn 
-xgboost 
-tensorflow 
+streamlit==1.45.1
+yfinance
+scikit-learn
+xgboost
+tensorflow==2.12.0
 plotly
+pandas
+numpy
